@@ -1,0 +1,12 @@
+;aiu;
+
+[Update]
+Name = WindowsApplication1
+ProductVersion = 2.5
+URL = https://raw.githubusercontent.com/chaitali022/SoftwareUpdates/main/login.exe
+Size = 16212480
+SHA256 = 4B59CCB1AC69805DE520365FA1B2AF48ED454690EB7A6DDB6944E6C71F881AD7
+MD5 = c16173cbfbfadce1e2fe7b678ed8f935
+ServerFileName = login.exe
+RegistryKey = HKUD\Software\Rupal Infosys\WindowsApplication1\Version
+Version = 2.5
